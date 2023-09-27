@@ -4,7 +4,10 @@ import SwiftUI
 struct MyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+       ContentView()
+//           decimalToHexadecimal()
+//         HexadecimalToDecimal()
+ //           BinaryToHexadecimal()
         }
     }
 }
