@@ -5,9 +5,9 @@ struct MyApp: App {
     var body: some Scene {
         WindowGroup {
        ContentView()
-//           decimalToHexadecimal()
-//         HexadecimalToDecimal()
- //           BinaryToHexadecimal()
+         decimalToHexadecimal()
+       HexadecimalToDecimal()
+         BinaryToHexadecimal()
         }
     }
 }
